@@ -7,11 +7,13 @@
 
 - 🔭 I’m currently working on **Node AI**
 
+- 🔒Looking for new Blockchain challenges
+
 - 🌱 I’m currently learning **Mobile development, Big Data, UX Design**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **Python, C/C++, Linux**
+- 💬 Ask me about **Python, C/C++, Blockchain proyects**
 
 - 📫 How to reach me **lizarragaiker1@gmail.com**
 
