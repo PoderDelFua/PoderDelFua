@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=PoderDelFua&show_icons=true&locale=en&theme=transparent" alt="tory1103" /></p>
 
-- 🔭 I’m currently working on **Node AI**
+- 🔭 I’m currently working on **Wancora Watches**
 
 - 🔒Looking for new Blockchain challenges
 
