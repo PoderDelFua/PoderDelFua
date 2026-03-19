@@ -3,8 +3,7 @@
 
 <br />
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=PoderDelFua&show_icons=true&locale=en&theme=transparent" alt="tory1103" /></p>
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=PoderDelFua&show_icons=true&locale=es&theme=transparent&include_all_commits=true" alt="Iker Lizarraga's GitHub Stats" /></p>
 - 🔭 I’m currently working on **Wancora Watches**
 
 - 🔒Looking for new Blockchain challenges
