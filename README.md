@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I'm a software engineer at **Orfebretech**, where I build the platform behind multi-brand online stores and the internal tools that run them — from the database schema to the pixel on screen.
+I'm a software engineer at **[Orfebretech](https://orfebretech.com)**, where I build the platform behind multi-brand online stores and the internal tools that run them — from the database schema to the pixel on screen.
 
 - 🏗️ **Now:** a multi-tenant SaaS for luxury retail — storefronts, back-office, inventory, payments and BI on one shared core
 - 🤖 **Into:** AI agents in production (LangGraph), document extraction and pricing models
@@ -40,7 +40,36 @@ I'm a software engineer at **Orfebretech**, where I build the platform behind mu
 | **AI / Data** | LangGraph · LangChain · YOLOv8 · PyTorch · scraping pipelines |
 | **Integrations** | Stripe · Redsys · Clerk · HubSpot · DHL |
 
-## 🚀 Featured projects
+## 💼 In production
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://joyeriasuiza.com">💎 Joyería Suiza — full digital relaunch</a></h3>
+      <p>A historic high-jewellery and watch house in Vigo: profitable and loyal clientele, but no digital presence and no customer data.</p>
+      <ul>
+        <li>New online store with watches, jewellery, own collections and a <b>pre-owned</b> channel, Redsys payments, 7 languages</li>
+        <li>A management platform built from scratch — catalogue, inventory, orders, invoicing, marketing and analytics — replacing the legacy ERP</li>
+        <li>CRM and marketing foundations to grow revenue, with thousands of references catalogued</li>
+        <li>Migration to production <b>without a single day of downtime</b></li>
+      </ul>
+      <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Redsys-c9a227?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://obsequiums.com">🎁 Obsequiums — a D2C brand from zero to one</a></h3>
+      <p>An accessible-luxury accessories brand (cases and more for objects of value), created from scratch.</p>
+      <ul>
+        <li>Brand identity, positioning and storytelling, with its own design system</li>
+        <li>Online store and catalogue in 5 languages</li>
+        <li>Pre-launch acquisition: waitlist and first-party customer database</li>
+        <li>First collection launched in <b>October 2026</b></li>
+      </ul>
+      <img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/-D2C-1e3a8a?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+## 🚀 Side projects
 
 <table>
   <tr>
@@ -69,14 +98,14 @@ I'm a software engineer at **Orfebretech**, where I build the platform behind mu
   </tr>
 </table>
 
-## 📈 Activity
+## 📊 By the numbers
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=PoderDelFua&theme=tokyonight&hide_border=true&background=0f172a&ring=c9a227&fire=c9a227&currStreakLabel=c9a227" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/commits-3.1k%2B-c9a227?style=for-the-badge&logo=git&logoColor=white&labelColor=0f172a" alt="3.1k+ commits" />
+  <img src="https://img.shields.io/badge/PRs%20merged-800%2B-c9a227?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="800+ PRs merged" />
+  <img src="https://img.shields.io/badge/PRs%20reviewed-1k%2B-c9a227?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="1k+ PRs reviewed" />
+  <img src="https://img.shields.io/badge/contributions%20(last%20year)-6.8k%2B-c9a227?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="6.8k+ contributions in the last year" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/c9a227/PoderDelFua" width="100%" alt="Contribution chart" />
-</p>
+<p align="center"><sub>Mostly in private repositories.</sub></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a227,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" alt="" />
